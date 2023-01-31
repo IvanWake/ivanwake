@@ -5,6 +5,6 @@
 Geniy
 
 ### Languages and Tools
-![Yii2](https://img.shields.io/badge/-Yii2-6E7581?style=for-the-badge&logo=yii)
+![Yii2](https://img.shields.io/badge/-Yii2-6E7581?style=for-the-badge&logo=yii&logoColor=131313)
 
 Follow me <3
