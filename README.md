@@ -2,11 +2,13 @@
 
 ## I'm Back-end Developer
 
-Geniy
-
 ### Languages and Tools
-![Yii2](https://img.shields.io/badge/-Yii2-131313?style=for-the-badge&logo=yii&logoColor=131313)
-![Laravel](https://img.shields.io/badge/-Laravel-131313?style=for-the-badge&logo=laravel&logoColor=131313)
-![PHP](https://img.shields.io/badge/-Yii2-131313?style=for-the-badge&logo=php&logoColor=131313)
+![Yii2](https://img.shields.io/badge/YesItIS-131313?style=for-the-badge&logo=)
+![Laravel](https://img.shields.io/badge/Laravel-131313?style=for-the-badge&logo=laravel)
+![PHP](https://img.shields.io/badge/PHP-131313?style=for-the-badge&logo=php)
+![SQL](https://img.shields.io/badge/SQL-131313?style=for-the-badge&logo=mysql)
+![HTML](https://img.shields.io/badge/HTML-131313?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-131313?style=for-the-badge&logo=css3)
 
-Follow me <3
+Follow me
+
