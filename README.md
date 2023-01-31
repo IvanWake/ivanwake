@@ -3,12 +3,23 @@
 ## I'm Back-end Developer
 
 ### Languages and Tools
-![Yii2](https://img.shields.io/badge/YesItIS-131313?style=for-the-badge&logo=)
+![Yii2](https://img.shields.io/badge/YesItIS-131313?style=for-the-badge&logo=hyper)
 ![Laravel](https://img.shields.io/badge/Laravel-131313?style=for-the-badge&logo=laravel)
 ![PHP](https://img.shields.io/badge/PHP-131313?style=for-the-badge&logo=php)
+![Git](https://img.shields.io/badge/Git-131313?style=for-the-badge&logo=git)
 ![SQL](https://img.shields.io/badge/SQL-131313?style=for-the-badge&logo=mysql)
 ![HTML](https://img.shields.io/badge/HTML-131313?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-131313?style=for-the-badge&logo=css3)
 
-Follow me
+<details>
+ <summary> <samp>⌛ Опыт работы</samp></summary>
+В поиске... ⌛
+</details>
+
+<details>
+ <summary> <samp>💼 Работы</samp></summary>
+- https://artcs.xyz/(Доработка движка, интеграция платёжных систем)
+</details>
+
+### Follow me
 
