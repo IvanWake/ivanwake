@@ -5,6 +5,8 @@
 Geniy
 
 ### Languages and Tools
-![Yii2](https://img.shields.io/badge/-Yii2-6E7581?style=for-the-badge&logo=yii&logoColor=131313)
+![Yii2](https://img.shields.io/badge/-Yii2-131313?style=for-the-badge&logo=yii&logoColor=131313)
+![Laravel](https://img.shields.io/badge/-Laravel-131313?style=for-the-badge&logo=laravel&logoColor=131313)
+![PHP](https://img.shields.io/badge/-Yii2-131313?style=for-the-badge&logo=php&logoColor=131313)
 
 Follow me <3
