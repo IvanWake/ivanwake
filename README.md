@@ -1,4 +1,4 @@
-[![Header](https://github.com/IvanWake/ivanwake/blob/main/assets/photo_2023-01-31_12-43-10.jpg)](https://t.me/purplebaby15)
+
 
 ## I'm PHP Back-end Developer
 
@@ -10,6 +10,8 @@
 ![SQL](https://img.shields.io/badge/SQL-131313?style=for-the-badge&logo=mysql)
 ![HTML](https://img.shields.io/badge/HTML-131313?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-131313?style=for-the-badge&logo=css3)
+
+### Works
 
 <details>
  <summary> <samp>⌛ Опыт работы</samp></summary>
@@ -29,3 +31,4 @@
 ![Discord](https://img.shields.io/badge/purplebaby&3061-131313?style=for-the-badge&logo=discord)
 [![Instagram](https://img.shields.io/badge/Instagram-131313?style=for-the-badge&logo=instagram)](https://instagram.com/purplebaby_spo)
 
+[![Header](https://github.com/IvanWake/ivanwake/blob/main/assets/photo_2023-01-31_12-43-10.jpg)](https://t.me/purplebaby15)
