@@ -7,10 +7,14 @@
 ![Laravel](https://img.shields.io/badge/Laravel-131313?style=for-the-badge&logo=laravel)
 ![PHP](https://img.shields.io/badge/PHP-131313?style=for-the-badge&logo=php)
 ![JS](https://img.shields.io/badge/JS-131313?style=for-the-badge&logo=javascript)
-![Git](https://img.shields.io/badge/Git-131313?style=for-the-badge&logo=git)
-![SQL](https://img.shields.io/badge/SQL-131313?style=for-the-badge&logo=mysql)
+![React](https://img.shields.io/badge/React.js-131313?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-131313?style=for-the-badge&logo=next.js)
 ![HTML](https://img.shields.io/badge/HTML-131313?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-131313?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-131313?style=for-the-badge&logo=bootstrap)
+![Git](https://img.shields.io/badge/Git-131313?style=for-the-badge&logo=git)
+![SQL](https://img.shields.io/badge/SQL-131313?style=for-the-badge&logo=mysql)
+
 
 ### Works
 
