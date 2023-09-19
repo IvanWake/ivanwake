@@ -15,6 +15,10 @@
 ![Git](https://img.shields.io/badge/Git-131313?style=for-the-badge&logo=git)
 ![SQL](https://img.shields.io/badge/SQL-131313?style=for-the-badge&logo=mysql)
 
+### Favorite IDE's
+![Web Storm](https://img.shields.io/badge/WEB_STORM-131313?style=for-the-badge&logo=webstorm)
+![Php Storm](https://img.shields.io/badge/Php_Storm-131313?style=for-the-badge&logo=phpstorm)
+![VS Code](https://img.shields.io/badge/VS_CODE-131313?style=for-the-badge&logo=visualstudiocode)
 
 ### Works
 
