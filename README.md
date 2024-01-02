@@ -4,8 +4,9 @@
 
 ### Languages and Tools
 ![React](https://img.shields.io/badge/React.js-131313?style=for-the-badge&logo=react)
-![Express](https://img.shields.io/badge/Express.js-131313?style=for-the-badge&logo=express)
 ![Next.js](https://img.shields.io/badge/Next.js-131313?style=for-the-badge&logo=next.js)
+![Express.js](https://img.shields.io/badge/Express.js-131313?style=for-the-badge&logo=express)
+![Node.js](https://img.shields.io/badge/Node.js-131313?style=for-the-badge&logo=node.js)
 ![JS](https://img.shields.io/badge/JavaScript-131313?style=for-the-badge&logo=javascript)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-131313?style=for-the-badge&logo=tailwindcss)
 ![bootrstrap](https://img.shields.io/badge/Bootstrap-131313?style=for-the-badge&logo=bootstrap)
