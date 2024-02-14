@@ -31,7 +31,8 @@
 
 <details>
  <summary> <samp>💼 Работы</samp></summary>
-  <a href="https://japan-kitchen.vercel.app/" target="_blank">First React App</a> <br>
+  <a href="https://japan-kitchen.vercel.app/" target="_blank">First React App Online Shop</a> <br><br>
+ <a href="https://open-shop-seven.vercel.app/" target="_blank">Cookie Store</a> <br>
 </details>
 
 ### Follow me
