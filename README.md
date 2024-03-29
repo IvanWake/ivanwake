@@ -16,6 +16,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-131313?style=for-the-badge&logo=laravel)
 ![Git](https://img.shields.io/badge/Git-131313?style=for-the-badge&logo=git)
 ![SQL](https://img.shields.io/badge/SQL-131313?style=for-the-badge&logo=mysql)
+![MongoDb](https://img.shields.io/badge/MongoDb-131313?style=for-the-badge&logo=mongodb)
 
 ### Favorite IDE's
 ![Web Storm](https://img.shields.io/badge/WEB_STORM-131313?style=for-the-badge&logo=webstorm)
