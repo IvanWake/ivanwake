@@ -27,13 +27,17 @@
 
 <details>
  <summary> <samp>⌛ Опыт работы</samp></summary>
-В поиске... ⌛ 								
+ 
+|                   |                                          |                    |                              |
+| ----------------- | ---------------------------------------- | ------------------ | ---------------------------- |
+| ![TagMate](assets/tagmate.svg)   | [tagmate.ru](https://tagmate.ru) | Front-end NextJS   | 06.2024 - текущее время      |
 </details>
 
 <details>
  <summary> <samp>💼 Работы</samp></summary>
-  <a href="https://japan-kitchen.vercel.app/" target="_blank">First React App Online Shop</a> <br><br>
  <a href="https://open-shop-seven.vercel.app/" target="_blank">Cookie Store</a> <br>
+  <a href="https://japan-kitchen.vercel.app/" target="_blank">Japan Kitchen</a> <br>
+ <a href="https://ivan-wake.vercel.app/" target="_blank">My Portfolio</a> <br>
 </details>
 
 ### Follow me
@@ -43,6 +47,3 @@
 [![Youtube](https://img.shields.io/badge/Youtube-131313?style=for-the-badge&logo=Youtube)](https://www.youtube.com/channel/UCHWY0L_LxH6LmGpev4aJoQQ)
 ![Discord](https://img.shields.io/badge/purplebaby&3061-131313?style=for-the-badge&logo=discord)
 [![Instagram](https://img.shields.io/badge/Instagram-131313?style=for-the-badge&logo=instagram)](https://instagram.com/purplebaby_dev)
-
-
-[![Header](https://github.com/IvanWake/ivanwake/blob/main/assets/photo_2023-01-31_12-43-10.jpg)](https://t.me/purplebaby15)
