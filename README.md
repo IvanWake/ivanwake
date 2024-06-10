@@ -30,7 +30,7 @@
  
 |                   |                                          |                    |                              |
 | ----------------- | ---------------------------------------- | ------------------ | ---------------------------- |
-| ![TagMate](assets/tagmate.svg)   | [tagmate.ru](https://tagmate.ru) | Front-end NextJS   | 06.2024 - текущее время      |
+| ![TagMate](tagmate.svg)   | [tagmate.ru](https://tagmate.ru) | Front-end NextJS   | 06.2024 - текущее время      |
 </details>
 
 <details>
