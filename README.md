@@ -38,9 +38,9 @@
 |     =)              |          Проект                           |         Стек             |
 | ----------------- | ---------------------------------------- | ------------------ |
 | <img src="tagmate.svg" alt="drawing" width="75"/>   | [TagMate](https://tagmate.ru) | Front-end NextJS <br> Back-end Express.js   |
-| <img src="tagmate.svg" alt="drawing" width="75"/>   | [Cookie Store](https://open-shop-seven.vercel.app) | Front-end ReactJS <br> Back-end Firebase   |
-| <img src="tagmate.svg" alt="drawing" width="75"/>   | [Japan Kitchen](https://japan-kitchen.vercel.app/) | Front-end ReactJS <br> Back-end Firebase   |
-| <img src="tagmate.svg" alt="drawing" width="75"/>   | [My Portfolio](https://ivan-wake.vercel.app) | Front-end NextJS   |
+| <img src="react.svg" alt="drawing" width="75"/>   | [Japan Kitchen](https://japan-kitchen.vercel.app/) | Front-end ReactJS <br> Back-end Firebase   |
+| <img src="cookie-store.svg" alt="drawing" width="75"/>   | [Cookie Store](https://open-shop-seven.vercel.app) | Front-end ReactJS <br> Back-end Firebase   |
+| <img src="react.svg" alt="drawing" width="75"/>   | [My Portfolio](https://ivan-wake.vercel.app) | Front-end NextJS   |
 </details>
 
 ### Follow me
