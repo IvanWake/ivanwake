@@ -27,17 +27,20 @@
 <details>
  <summary> <samp>⌛ Опыт работы</samp></summary>
  
-|     =)              |          Место работы                                |         Должность             |         Время                   |
+|     =)              |          Место работы                                |         Должность/Стек             |         Время                   |
 | ----------------- | ---------------------------------------- | ------------------ | ---------------------------- |
 | <img src="tagmate.svg" alt="drawing" width="75"/>   | [TagMate](https://tagmate.ru) | Front-end <br>NextJS   | 06.2024 - <br>текущее время      |
 </details>
 
 <details>
  <summary> <samp>💼 Работы</samp></summary>
- <a href="https://tagmate.ru" target="_blank">TagMate</a> <br>
- <a href="https://open-shop-seven.vercel.app/" target="_blank">Cookie Store</a> <br>
-  <a href="https://japan-kitchen.vercel.app/" target="_blank">Japan Kitchen</a> <br>
- <a href="https://ivan-wake.vercel.app/" target="_blank">My Portfolio</a> <br>
+
+|     =)              |          Проект                           |         Стек             |
+| ----------------- | ---------------------------------------- | ------------------ |
+| <img src="tagmate.svg" alt="drawing" width="75"/>   | [TagMate](https://tagmate.ru) | Front-end NextJS <br> Back-end Express.js   |
+| <img src="tagmate.svg" alt="drawing" width="75"/>   | [Cookie Store](https://open-shop-seven.vercel.app) | Front-end ReactJS <br> Back-end Firebase   |
+| <img src="tagmate.svg" alt="drawing" width="75"/>   | [Japan Kitchen](https://japan-kitchen.vercel.app/) | Front-end ReactJS <br> Back-end Firebase   |
+| <img src="tagmate.svg" alt="drawing" width="75"/>   | [My Portfolio](https://ivan-wake.vercel.app) | Front-end NextJS   |
 </details>
 
 ### Follow me
