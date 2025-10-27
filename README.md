@@ -29,7 +29,7 @@
  
 |     =)              |          Место работы                                |         Должность/Стек             |         Время                   |
 | ----------------- | ---------------------------------------- | ------------------ | ---------------------------- |
-| <img src="tagmate.svg" alt="drawing" width="75"/>   | [TagMate](https://tagmate.ru) | Front-end <br>NextJS   | 06.2024 - <br>03.2025      |
+| <img src="tagmate.svg" alt="drawing" width="75"/>   | [TagMate](https://tagmate.ru) | Founder & Front-end Lead <br>NextJS   | 06.2024 - <br>Настоящее время      |
 </details>
 
 <details>
