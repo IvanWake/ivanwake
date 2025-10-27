@@ -11,11 +11,9 @@
 ![bootrstrap](https://img.shields.io/badge/Bootstrap-131313?style=for-the-badge&logo=bootstrap)
 ![HTML](https://img.shields.io/badge/HTML-131313?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-131313?style=for-the-badge&logo=css3)
-![PHP](https://img.shields.io/badge/PHP-131313?style=for-the-badge&logo=php)
-![Laravel](https://img.shields.io/badge/Laravel-131313?style=for-the-badge&logo=laravel)
 ![Express.js](https://img.shields.io/badge/Express.js-131313?style=for-the-badge&logo=express)
 ![Git](https://img.shields.io/badge/Git-131313?style=for-the-badge&logo=git)
-![SQL](https://img.shields.io/badge/MySQL-131313?style=for-the-badge&logo=mysql)
+![MySQL](https://img.shields.io/badge/MySQL-131313?style=for-the-badge&logo=mysql)
 ![MongoDb](https://img.shields.io/badge/MongoDb-131313?style=for-the-badge&logo=mongodb)
 
 ### Favorite IDE's
