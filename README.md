@@ -45,6 +45,6 @@
 
 ### Follow me
 
-[![Telegram](https://img.shields.io/badge/Telegram-131313?style=for-the-badge&logo=telegram)](https://t.me/purplebaby15)
-[![VK](https://img.shields.io/badge/Vkontakte-131313?style=for-the-badge&logo=vk)](https://vk.com/purplebaby16)
+[![Telegram](https://img.shields.io/badge/Telegram-131313?style=for-the-badge&logo=telegram)](https://t.me/ivanwakedev)
+[![VK](https://img.shields.io/badge/Vkontakte-131313?style=for-the-badge&logo=vk)](https://vk.com/ivantimofeevdev)
 [![Instagram](https://img.shields.io/badge/Instagram-131313?style=for-the-badge&logo=instagram)](https://instagram.com/purplebaby_dev)
