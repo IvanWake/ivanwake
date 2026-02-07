@@ -1,6 +1,6 @@
 
 
-## Founder, Frontend Lead of TagMate
+## Founder, Frontend Lead of Tagmate
 
 ### Languages and Tools
 ![React](https://img.shields.io/badge/React.js-131313?style=for-the-badge&logo=react)
