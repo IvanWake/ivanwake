@@ -27,7 +27,7 @@
  
 |          Место работы                                |         Должность/Стек             |         Время                   |
 |---------------------------------------- | ------------------ | ---------------------------- |
-| [Tagmate](https://tagmate.ru) | Founder & Front-end Lead  | 06.2024 - Настоящее время      |
+| [Tagmate](https://tag-mate.ru) | Founder & Front-end Lead  | 06.2024 - Настоящее время      |
 | [Technorazum](https://technorazum.ru) | Front-end developer  | 08.2023 - 06.2024     |
 </details>
 
@@ -36,7 +36,7 @@
 
 |     =)              |          Проект                           |         Стек             |
 | ----------------- | ---------------------------------------- | ------------------ |
-| <img src="tagmate.svg" alt="drawing" width="75"/>   | [Tagmate](https://tagmate.ru) | Front-end NextJS <br> Back-end Express.js   |
+| <img src="tagmate.svg" alt="drawing" width="75"/>   | [Tagmate](https://tag-mate.ru) | Front-end NextJS <br> Back-end Express.js   |
 | <img src="react.svg" alt="drawing" width="75"/>   | [Japan Kitchen](https://japan-kitchen.vercel.app/) | Front-end ReactJS <br> Back-end Firebase   |
 | <img src="cookie-store.svg" alt="drawing" width="75"/>   | [Cookie Store](https://open-shop-seven.vercel.app) | Front-end ReactJS <br> Back-end Firebase   |
 | <img src="react.svg" alt="drawing" width="75"/>   | [My Portfolio](https://ivan-wake.vercel.app) | Front-end NextJS   |
